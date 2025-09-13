@@ -1,0 +1,7 @@
+{
+  "missing_bjt_model": "Add a model definition like `.model QMOD NPN(BF=100 VAF=100)` before using the transistor.",
+  "resistor_ground_issue": "Ensure resistors are connected between valid nodes, not just 0. Example: R1 N001 0 1k",
+  "voltage_source_without_value": "Voltage sources must have a value. Example: V1 N001 0 DC 5",
+  "floating_node": "Detected a floating node. Ensure all nodes are connected to at least two components.",
+  "missing_include": "If you are using special components (like opamps), include the library file with `.include <filename>.lib`."
+}

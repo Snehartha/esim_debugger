@@ -1,0 +1,7 @@
+{
+  "unknown subckt": "Check if the required library is included using `.include <filename>.lib`.",
+  "singular matrix": "This usually happens due to floating/unconnected nodes. Connect all nodes properly.",
+  "timestep too small": "Reduce timestep in `.tran` statement or adjust component values.",
+  "convergence problem": "Try adding `.options reltol=1e-3 abstol=1e-12` or provide better initial conditions.",
+  "undefined model": "Ensure `.model` statements are present for all transistors/diodes."
+}

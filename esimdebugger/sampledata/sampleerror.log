@@ -1,0 +1,4 @@
+Error: Unknown device 'X1' used
+Warning: Node N006 is floating
+Fatal: no such model BJT_PNP
+Error: Invalid parameter for resistor R3

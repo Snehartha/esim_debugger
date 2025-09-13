@@ -1,0 +1,4 @@
+
+Error: unknown subckt 'opamp'
+Warning: timestep too small
+Error: singular matrix: check node connections
